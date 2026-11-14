@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.env
+server/data/transfers.json
+server/data/encrypted-transfers/
